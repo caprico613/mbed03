@@ -13,7 +13,7 @@ int main(){
 
     PWM1 = Ain;
 
-    wait(0.1);
+    wait(0.01);
 
   }
 
